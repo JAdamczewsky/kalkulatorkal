@@ -1,0 +1,48 @@
+body{
+    font-family: sans-serif,'Times New Roman', Times, serif;
+}
+header{
+    height: 80px;
+    font-size: medium;
+    color: rgb(76, 67, 204);
+    text-align: center;
+}
+main{
+background-image:url("vegetables-4375192.jpg") ; 
+background-color: aqua; 
+height: 700px;
+}
+.blok{
+   float: left;
+   width: 35%; 
+   height: 500px;
+   background-color: rgba(0, 0, 0, 0.767);
+   color: deeppink;
+   margin-left: 5%;
+   margin-top: 5%;
+   text-align: center;
+}
+footer{
+    background-color: black;
+}
+button{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    padding: 0;
+    border: 0px;
+}
+button:hover{
+    background-color: rgb(0, 0, 0);
+    color: aqua;
+    
+}
+input{
+    text-align: center;
+    font-size: 14px;
+    padding: 5px;
+}
+#wynik2{
+    color: blueviolet;
+    font-size: 20px;
+}
